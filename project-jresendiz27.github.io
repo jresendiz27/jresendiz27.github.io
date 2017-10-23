@@ -5,7 +5,7 @@ server {
     root /home/static/jresendiz27.github.io;
     index index.html index.htm;
 
-    server_name jresendiz27.getmore.mx;
+    server_name jresendiz27.getmore.mx jresendiz27.blick.mx;
 
     location / {
         try_files $uri $uri/ =404;
