@@ -15,6 +15,6 @@ Ingeniero en Sistemas Computacionales (IPN-ESCOM). Luchón de Software. Actualme
 
 Interesado en Devops, arquitectura de software, lenguajes en la JVM (Groovy lover) y lenguajes de programación en general.
 
-¿Te interesa trabajar en Kueski? [Aplica aquí!](https://kueski.com/trabajo)
+¿Te interesa trabajar en Kueski? [Aplica aquí!](http://grnh.se/ff57976e1)
 
 Este blog fue hecho usando [jekyll](https://github.com/jekyll/jekyll)
